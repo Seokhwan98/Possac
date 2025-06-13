@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 5a63b001b4e9a414cb75c6f107732750
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 025ac88302ab5e94e83846c7fed63f50
+  - enabled: 1
+    path: Assets/Scenes/FirstFloor.unity
+    guid: 59bb79f2ba694b445bb56c75c22793ba
+  - enabled: 1
+    path: Assets/Scenes/SecondFloor.unity
+    guid: 0645637e5ac055140a0bfe970196c0f3
+  - enabled: 1
+    path: Assets/Scenes/Student.unity
+    guid: eb81aa16093524e419efcb6156c58f33
+  - enabled: 1
+    path: Assets/Scenes/SecondFloorAfter.unity
+    guid: 06eba6a68c02e9647bcd8e5de2d3d006
+  - enabled: 1
+    path: Assets/Scenes/ThirdFloor.unity
+    guid: 0e035b6a5c312ff4eb6a4ea304778f8b
+  - enabled: 1
+    path: Assets/Scenes/ThirdFloorAfter.unity
+    guid: 86532387344742f4589f0d0c4069a042
+  - enabled: 1
+    path: Assets/Scenes/Wait.unity
+    guid: 197c97ed091c89a43bcf0c3809417d68
+  - enabled: 1
+    path: Assets/Scenes/FirstFloorNight.unity
+    guid: e98d2b7d664bff948bf1796909a94a3f
+  - enabled: 1
+    path: Assets/Scenes/Atlan.unity
+    guid: ee44c5f85155c3d45bdad7e92e67a198
+  - enabled: 1
+    path: Assets/Scenes/Rhythm.unity
+    guid: c42722236b782fc4cbf530ab22f6a458
+  - enabled: 1
+    path: Assets/Scenes/Final.unity
+    guid: 99cfc5fcbacf5714f8340fe52d92fd52
+  - enabled: 1
+    path: Assets/Scenes/Calculator.unity
+    guid: 53acc3566ab0f9d42a75fb408117c8ef
+  m_configObjects: {}
